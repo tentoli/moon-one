@@ -2,7 +2,7 @@
   "manifest": {
     "publishingInformation": {
       "locales": {
-        "en-US": {
+        "en-UK": {
           "summary": "Moon One Radio Station",
           "examplePhrases": [
             "Alexa, open Moon One.",
@@ -56,7 +56,7 @@
     "privacyAndCompliance": {
       "allowsPurchases": false,
       "locales": {
-        "en-US": {}
+        "en-UK": {}
       },
       "containsAds": false,
       "isExportCompliant": true,
