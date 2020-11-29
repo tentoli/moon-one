@@ -1,0 +1,12 @@
+{
+    "name": "moon-one-skill",
+    "version": "1.0.0",
+    "description": "Moon One Radio Station (Alexa Skill)",
+    "main": "index.js",
+    "author": "Berliner95, https://fiverr.com/berliner95",
+    "dependencies": {
+        "ask-sdk-core": "^2.6.0",
+        "ask-sdk-model": "^1.18.0",
+        "aws-sdk": "^2.326.0"
+    }
+}
