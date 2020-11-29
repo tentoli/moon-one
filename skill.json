@@ -11,8 +11,8 @@
           "keywords": [],
           "name": "Moon One",
           "description": "Moon One Radio Station",
-          "smallIconUri": "file://assets/images/en-US_smallIconUri.png",
-          "largeIconUri": "file://assets/images/en-US_largeIconUri.png"
+          "smallIconUri": "file://assets/images/en-UK_smallIconUri.png",
+          "largeIconUri": "file://assets/images/en-UK_largeIconUri.png"
         }
       },
       "automaticDistribution": {
